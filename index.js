@@ -32,7 +32,10 @@ else
 */
 
 /*
-  Add written explanation of your solution here
+  Add written explanation of your solution herecreate an array from the input string
+reverse the array
+create a string from the reversed array
+return the reversed string
 */
 
 // You can run `node index.js` to view these console logs
